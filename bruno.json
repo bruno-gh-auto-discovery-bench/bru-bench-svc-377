@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "orders-worker",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
